@@ -1,7 +1,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hi there, i'm David Ogunshile,Data Analyst and Materials Engineer with expertise in data-driven insights, materials characterization, and process optimization. Passionate about leveraging analytics to drive innovation and enhance material performance in diverse industries.
+Hi there!, I'm David Ogunshile, Data Analyst and Materials Engineer with expertise in data-driven insights, materials characterization, and process optimization. Passionate about leveraging analytics to drive innovation and enhance material performance in diverse industries.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
